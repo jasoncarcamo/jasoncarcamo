@@ -56,7 +56,7 @@ Website: https://www.carcamostudios.com/
 
 ## Connect With Me
 
-LinkedIn: [YOUR_PERSONAL_LINKEDIN_URL](https://www.linkedin.com/in/jason-carcamo-78217717b/)
+LinkedIn: https://www.linkedin.com/in/jasoncarcamo
 
 Portfolio: https://www.linkedin.com/in/jason-carcamo-78217717b/
 
